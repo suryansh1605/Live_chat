@@ -1,6 +1,6 @@
 [[redirects]]
 from= "/*"
-to= "/views/index.ejs"
+to= "/index.ejs"
 status= 200
 
 [[headers]]
